@@ -32,7 +32,7 @@
 <p>
   &nbsp;<img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=chmp0940&show_icons=true&locale=en&theme=dark" 
+    src="https://streak-stats.demolab.com/?user=chmp0940&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" 
     alt="chmp0940" 
   />
 </p>
