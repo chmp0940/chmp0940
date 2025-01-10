@@ -74,3 +74,6 @@
 <p align="left">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding Animation">
 </p>
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/chmp0940/chmp0940/main/dist/snake.svg)
+
