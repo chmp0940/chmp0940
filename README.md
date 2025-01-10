@@ -30,7 +30,7 @@
 </p>
 
 <p>
-  &nbsp;<img 
+  <img 
     align="center" 
     src="https://streak-stats.demolab.com/?user=chmp0940&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" 
     alt="chmp0940" 
@@ -38,14 +38,6 @@
 </p>
 </span>
 <span>
-<p>
-  <img 
-    align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=chmp0940&theme=dark" 
-    alt="chmp0940" 
-  />
-</p>
-</span>
 <div>
  <h2> My Contribution :
   <div align="center">
