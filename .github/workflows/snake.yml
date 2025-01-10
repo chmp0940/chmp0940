@@ -10,25 +10,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+      # Checkout the repository
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      # Generate the Snake SVG
+      - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: chmp0940
+          github_user_name: <your-github-username>
           outputs: dist/snake.svg
 
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v2
+      # Upload the Snake SVG to the repository
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          name: snake
-          path: dist/snake.svg
-
-      - name: Commit and Push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Generate snake animation"
-          git push
+          commit_message: "Generated snake animation"
+          file_pattern: dist/snake.svg
