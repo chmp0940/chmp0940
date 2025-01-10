@@ -18,7 +18,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: <your-github-username>
+          github_user_name: chmp0940
           outputs: dist/snake.svg
 
       # Upload the Snake SVG to the repository
