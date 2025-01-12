@@ -6,9 +6,12 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   Hi, nice to see you here!
 </p>
-<p align="left"> 
+
+
+<!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=chmp0940&label=Profile%20views&color=0e75b6&style=flat" alt="chmp0940" /> 
-</p>
+</p> -->
+
 <h2 align="left">💫 About Me</h2>
 <p align="left">
   <img alt="Header GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47po12uvhx7ohkxzpqtsa0y40whzy4awdtbfczeem0&rid=giphy.gif&ct=g" width="400" height="250" align="right" />
@@ -71,9 +74,14 @@
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chmp0940&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" width="100%" />
 </p>
+<span>
 <p align="left">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding Animation">
 </p>
+  <br>
+<a href="https://u8views.com/github/chmp0940"><img src="https://u8views.com/api/v1/github/profiles/170850152/views/day-week-month-total-count.svg"></a>
+  
+</span>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chmp0940/chmp0940/output/github-snake-dark.svg" />
