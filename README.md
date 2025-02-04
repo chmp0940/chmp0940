@@ -18,9 +18,9 @@
 </p>
 
 - 🎓 I am currently pursuing **BTech from IIIT Bhopal**.  
-- 💻 Passionate about **Web Development** and **learning new technologies**.  
-- 🌱 Currently exploring **Full-Stack Development** and improving my skills in **React.js** and **Node.js**.  
-- 🤝 Open to collaborating on exciting web projects and contributing to open-source.
+- 💻 I am currently learning web Developement and further want to explore DevOps.  
+- 🌱 Currently Diving into React and backend framework like Express.js of NodeJs.
+- 🤝 I have also COllaborated in SWOC as a beginner .
 
 <br>
 <br>
