@@ -20,7 +20,7 @@
 - 🎓 I am currently pursuing **BTech from IIIT Bhopal**.  
 - 💻 I am currently learning web Developement and further want to explore DevOps.  
 - 🌱 Currently Diving into React and backend framework like Express.js of NodeJs.
-- 🤝 I have also COllaborated in SWOC as a beginner .
+- 🤝 I have also Collaborated in SWOC as a beginner .
 
 <br>
 <br>
