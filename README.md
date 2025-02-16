@@ -79,7 +79,11 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding Animation">
 </p>
   <br>
-<a href="https://u8views.com/github/chmp0940"><img src="https://u8views.com/api/v1/github/profiles/170850152/views/day-week-month-total-count.svg"></a>
+<p align="left">
+    <img
+        src="https://komarev.com/ghpvc/?username=chmp0940&label=Profile%20views&color=0e75b6&style=flat"
+        alt="chmp0940" />
+</p>
   
 </span>
 
