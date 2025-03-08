@@ -14,7 +14,7 @@
 
 <h2 align="left">💫 About Me</h2>
 <p align="left">
-  <img alt="Header GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47po12uvhx7ohkxzpqtsa0y40whzy4awdtbfczeem0&rid=giphy.gif&ct=g" width="400" height="250" align="right" />
+  <img alt="Header GIF" src="https://github.com/chmp0940/chmp0940/blob/main/.github/workflows/illustration.png" width="400" height="250" align="right" />
 </p>
 
 - 🎓 I am currently pursuing **BTech from IIIT Bhopal**.  
