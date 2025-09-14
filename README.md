@@ -75,13 +75,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chmp0940&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" width="100%" />
 </p>
 <span>
-<p align="left">
+<!-- <p align="left">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding Animation">
-</p>
+</p> -->
   <br>
 <a href="https://u8views.com/github/chmp0940"><img src="https://u8views.com/api/v1/github/profiles/170850152/views/day-week-month-total-count.svg"></a>
   
 </span>
+<h3> 🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chmp0940&theme=juicyfresh" alt="GitHub Trophies" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chmp0940/chmp0940/output/github-snake-dark.svg" />
