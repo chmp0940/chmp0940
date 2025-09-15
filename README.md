@@ -9,9 +9,9 @@
 
 <h2 align="left">💫 About Me</h2>
 
-<table>
+<table border="0" cellpadding="20" cellspacing="20">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="60%" style="padding-right: 20px;">
       - 🎓 I am currently pursuing <strong>BTech from IIIT Bhopal</strong><br/>
       - 💻 Learning web development and exploring <strong>DevOps</strong><br/>
       - 🌱 Diving into <strong>React</strong> and backend frameworks like <strong>Express.js</strong><br/>
